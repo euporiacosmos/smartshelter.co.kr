@@ -1,0 +1,5 @@
+path: ./dataset/augmented
+train: .
+val: .
+nc: 1
+names: ['smartshelter']
